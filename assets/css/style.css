@@ -1,0 +1,34 @@
+body{
+	background:black;
+	background-size:10%;
+	background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 70%);
+	height:100vh;
+	color:#fff;
+	font-family: 'Orbitron', sans-serif;
+	
+}
+.digitalclock{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	font-size:68px;
+	color:#daf6ff;
+	text-shadow: 11 16 30px rgb(16 190 239), 0 0 30px rgb(10 175 230);
+	letter-spacing:0.05em;
+}
+
+
+ 
+
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
